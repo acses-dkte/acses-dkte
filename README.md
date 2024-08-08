@@ -18,11 +18,11 @@ This repository is a central hub for all the code, projects, and solutions devel
 
 ## 🧑‍💻 Core Team
 
-- **President**: [Name]
-- **Vice President**: [Name]
-- **Technical Lead**: [Your Name]
-- **Events Coordinator**: [Name]
-- **Members**: [List of Members]
+- **President**: 
+- **Vice President**:
+- **Technical Lead**:
+- **Events Coordinator**:
+- **Members**: 
 
 ## 📬 Contact Us
 
