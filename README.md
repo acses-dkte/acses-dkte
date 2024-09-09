@@ -1,8 +1,7 @@
 
-
 # 🎓 Association of Computer Science and Engineering Students (ACSES)
 
-Welcome to the official GitHub repository of the Association of Computer Science and Engineering Students (ACSES) at [Your College Name]!
+Welcome to the official GitHub repository of the Association of Computer Science and Engineering Students (ACSES) at **DKTE Society's Textile & Engineering Institute, Ichalkaranji**!
 
 ## 📚 About ACSES
 
@@ -18,11 +17,29 @@ This repository is a central hub for all the code, projects, and solutions devel
 
 ## 🧑‍💻 Core Team
 
-- **President**: 
-- **Vice President**:
+- **President**: `Mr. Rohan Ghadvir`
+- **Vice President**: `Ms. Revati Khasnis`
+- **Secretary**:
+    - `Mr. Modou Lewis`
+    - `Mr. Parth Khot`
+- **Treasurer**:
+    - `Mr. Om Farakate`
+    - `Ms. Manasi Kurade`
 - **Technical Lead**:
-- **Events Coordinator**:
-- **Members**: 
+    - `Mr. Shreyash Galgale`
+    - `Mr. Sahil Makandar`
+    - `Ms. Diksha Koli`
+    - `Ms. Shirisha Gatti`
+- **Social Media Lead**:
+    - `Mr. Neeraj Surnis`
+    - `Mr. Moin Shaikh`
+    - `Mr. Archit Walvekar`
+    - `Mr. Indrajeet Chougule`
+    - `Mr. Amey Gujar`
+- **Data Manager**:
+    - `Mr. Sahil Thomake`
+    - `Mr. Sudesh Kumbhar`
+    - `Ms. Bharati Sargar`
 
 ## 📬 Contact Us
 
