@@ -17,29 +17,36 @@ This repository is a central hub for all the code, projects, and solutions devel
 
 ## 🧑‍💻 Core Team
 
-- **President**: `Mr. Rohan Ghadvir`
-- **Vice President**: `Ms. Revati Khasnis`
+- **President**: `Mr. Mahaveer Daga`
+- **Vice President**: - `Ms. Pramila Patil`
+    - `Mr. Ashish Andhale`
 - **Secretary**:
-    - `Mr. Modou Lewis`
-    - `Mr. Parth Khot`
+    - `Ms. Archita Jalan`
+    - `Mr. Yash Kanire`
+    - `Ms. Samruddhi Patil`
 - **Treasurer**:
-    - `Mr. Om Farakate`
-    - `Ms. Manasi Kurade`
-- **Technical Lead**:
-    - `Mr. Shreyash Galgale`
-    - `Mr. Sahil Makandar`
-    - `Ms. Diksha Koli`
-    - `Ms. Shirisha Gatti`
-- **Social Media Lead**:
-    - `Mr. Neeraj Surnis`
-    - `Mr. Moin Shaikh`
-    - `Mr. Archit Walvekar`
-    - `Mr. Indrajeet Chougule`
-    - `Mr. Amey Gujar`
+    - `Ms. Devyani Patil`
+    - `Mr. Mehbub Mulla`
+- **Technical Head**:
+    - `Mr. Parshv Athane`
+    - `Ms. Sejal Mali`
+    - `Ms. Payal Shahapure`
+    - `Ms. Mrudula Waichal`
+- **Event Head**:
+    - `Mr. Mrudul Deshmukh`
+    - `Mr. Samarth Navale`
+    - `Mr. Yash Vasagadekar`
+    - `Mr. Viraj Kadam`
+- **Social Media & Marketing**:
+    - `Mr. Rajvardhan Kadam`
+    - `Mr. Shrutik Khurape`
+    - `Mr. Sammed Kanwade`
+    - `Mr. Ajay Desai`        
 - **Data Manager**:
-    - `Mr. Sahil Thomake`
-    - `Mr. Sudesh Kumbhar`
-    - `Ms. Bharati Sargar`
+    - `Ms. Gayatri Waskar`
+    - `Ms. Sakshi Deshmukh`
+    - `Ms. Sanika Patil`
+    - `Ms. Isha Marathe`
 
 ## 📬 Contact Us
 
