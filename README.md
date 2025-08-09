@@ -32,6 +32,7 @@ This repository is a central hub for all the code, projects, and solutions devel
     - `Ms. Sejal Mali`
     - `Ms. Payal Shahapure`
     - `Ms. Mrudula Waichal`
+    - `Ms. Sakshi Kamble`
 - **Event Head**:
     - `Mr. Mrudul Deshmukh`
     - `Mr. Samarth Navale`
